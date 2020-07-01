@@ -4,12 +4,12 @@
 
 
 <p><img  src="https://i.ibb.co/59cLNmp/cover.png"/>
-<img  src="https://i.ibb.co/Pzyb9h2/cover2.png"/></p>
+<img  src="https://i.imgur.com/JGHM4uM.png"/></p>
 
 Restofinder adalah sebuah aplikasi sederhana yang menampilkan daftar restoran terdekat dari lokasi kita dengan beberapa spesifik jenis dan menu yang dihidangkan. Project ini menggunakan API Zoomato untuk mencari restoran, jadi kita harus membuat apikey Zoomato terlebih dahulu
 
 
-### Tools Feature:
+### Apps Feature:
 
 - Get Nearby Restaurant 
 - Get Collections
